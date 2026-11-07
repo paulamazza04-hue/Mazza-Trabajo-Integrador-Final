@@ -53,22 +53,6 @@ Este análisis demuestra que evaluar el éxito financiero de un catálogo histó
 4. 📅🎭 Importe por Género y Año	Recaudación segmentada por género y año.	Analizar tendencias de cada género en el tiempo. 
 <img width="875" height="427" alt="image" src="https://github.com/user-attachments/assets/92cc3542-f06d-4052-ab54-e9d2575960ef" />
 
-proyecto-final/
-│
-├── data/
-│   ├── dataset_original.csv
-│   └── dataset_limpio.csv
-│
-├── notebooks/
-│   └── limpieza.ipynb
-│
-├── powerbi/
-│   └── disney_dashboard.pbix
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
 
 # Autora 
 Ana Paula Mazza// Contadora Publica
