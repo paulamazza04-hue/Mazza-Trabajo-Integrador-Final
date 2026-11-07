@@ -34,7 +34,7 @@ Los ingresos brutos totales muestran una tendencia de crecimiento exponencial en
 ## ⭐🚀Identificación de Éxitos Excepcionales: 
 Los gráficos interactivos nos permitieron aislar e identificar de manera clara aquellos títulos que redefinieron los récords en fechas recientes así como Star Wars y Marvel, facilitando el análisis visual e interactivo de los datos.
 
-#⚔️✨Conclusión del Análisis de Importes e Inflación a través de los Años
+# ⚔️✨Conclusión del Análisis de Importes e Inflación a través de los Años
 Al contrastar los importes de taquilla bruta frente a los ingresos ajustados por inflación de las películas de Disney a lo largo del tiempo, podemos extraer las siguientes conclusiones clave:
 
 ## 🎭 La distorsión del valor del dinero: 
@@ -43,6 +43,14 @@ Si analizamos únicamente el Importe Bruto, parecería que las películas más e
 En las primeras décadas, Disney estrenaba menos películas, pero cada una de ellas lograba un impacto masivo y duradero con reestrenos constantes en cines. En las décadas de los 90 y 2010, observamos una mayor frecuencia de lanzamientos con recaudaciones brutas altísimas en su estreno inicial, pero que en términos de valor adquisitivo real promedio no logran superar de manera individual a los clásicos históricos.
 ## 🏰💰 El valor de la perspectiva histórica:
 Este análisis demuestra que evaluar el éxito financiero de un catálogo histórico sin ajustar los datos por inflación genera una conclusión sesgada. El ajuste nos permite valorar la verdadera magnitud del éxito cultural y comercial de las obras fundacionales de Disney en su momento de estreno.
+
+## KPI en Power
+KPI	Descripción	Objetivo
+📈 Importe Ajustado Total:	Suma de la recaudación ajustada por inflación.	Comparar ingresos reales a lo largo del tiempo.
+📅 Importe Bruto por Año:	Recaudación bruta agrupada por año de estreno.	Analizar la evolución anual de ingresos.
+🏰 Importe Ajustado por Año	Recaudación ajustada agrupada por año.	Identificar los años más exitosos considerando la inflación.
+📊 Participación por Género (%)	Porcentaje que representa cada género sobre el total recaudado.	Medir el peso relativo de cada género.
+📅🎭 Importe por Género y Año	Recaudación segmentada por género y año.	Analizar tendencias de cada género en el tiempo.
 
 # Autora 
 Ana Paula Mazza// Contadora Publica
