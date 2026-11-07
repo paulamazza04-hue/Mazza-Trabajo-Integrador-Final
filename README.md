@@ -1,2 +1,4 @@
 # Mazza-Trabajo-Integrador-Final
 Herramientas básicas para el Análisis de Datos
+El presente proyecto tiene como objetivo analizar la evolución del desempeño comercial de las películas producidas y distribuidas por Disney entre 1937 y 2016. Para ello, se utilizará información relacionada con la fecha de estreno, el género, la clasificación por edades y la recaudación de cada película, tanto en valores nominales como ajustados por inflación. El análisis permitirá identificar tendencias a lo largo del tiempo, determinar cuáles han sido los géneros más exitosos, evaluar la influencia de la clasificación MPAA sobre los ingresos obtenidos y reconocer las películas con mejor desempeño en taquilla. Asimismo, se buscará comprender cómo ha evolucionado la capacidad de generación de ingresos de Disney y cuáles son los factores que podrían estar asociados al éxito comercial de sus producciones.
+
