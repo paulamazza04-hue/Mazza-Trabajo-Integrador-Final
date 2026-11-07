@@ -45,12 +45,11 @@ En las primeras décadas, Disney estrenaba menos películas, pero cada una de el
 Este análisis demuestra que evaluar el éxito financiero de un catálogo histórico sin ajustar los datos por inflación genera una conclusión sesgada. El ajuste nos permite valorar la verdadera magnitud del éxito cultural y comercial de las obras fundacionales de Disney en su momento de estreno.
 
 ## KPI en Power
-KPI	Descripción	Objetivo
-📈 Importe Ajustado Total:	Suma de la recaudación ajustada por inflación.	Comparar ingresos reales a lo largo del tiempo.
-📅 Importe Bruto por Año:	Recaudación bruta agrupada por año de estreno.	Analizar la evolución anual de ingresos.
-🏰 Importe Ajustado por Año	Recaudación ajustada agrupada por año.	Identificar los años más exitosos considerando la inflación.
-📊 Participación por Género (%)	Porcentaje que representa cada género sobre el total recaudado.	Medir el peso relativo de cada género.
-📅🎭 Importe por Género y Año	Recaudación segmentada por género y año.	Analizar tendencias de cada género en el tiempo.
+1. 📈 Importe Ajustado Total:	Suma de la recaudación ajustada por inflación.	Comparar ingresos reales a lo largo del tiempo.
+2. 📅 Importe Bruto por Año:	Recaudación bruta agrupada por año de estreno.	Analizar la evolución anual de ingresos.
+3. 🏰 Importe Ajustado por Año	Recaudación ajustada agrupada por año.	Identificar los años más exitosos considerando la inflación.
+4. 📊 Participación por Género (%)	Porcentaje que representa cada género sobre el total recaudado.	Medir el peso relativo de cada género.
+5. 📅🎭 Importe por Género y Año	Recaudación segmentada por género y año.	Analizar tendencias de cada género en el tiempo.
 
 # Autora 
 Ana Paula Mazza// Contadora Publica
