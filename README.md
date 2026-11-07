@@ -13,7 +13,9 @@ Recaudación total
 Recaudación ajustada por inflación
 
 # Exploración y limpieza de los datos
-El archivo cuenta con 576 filas y 6 columnas, en donde se encuentran 17 géneros diferentes y 56 clasificaciones del rating.Revisé la presencia de valores nulos y no encontré datos faltantes en ninguna columna, por lo que no fue necesario eliminar ni imputar valores. Tampoco hay filas duplicadas. Analicé los valores fuera de lo esperable con describe() y no detecté valores negativos ni rangos imposibles. Verifiqué además que no existan columnas constantes, y todas aportan información. Como el dataset ya estaba en buen estado, guardé una copia en data_set_limpio para trabajar sobre ella y conservar el original intacto.
+Durante la etapa de preparación de datos se realizó un análisis de calidad sobre el dataset. Se identificaron y eliminaron valores nulos para garantizar la consistencia de la información. Asimismo, se detectaron registros duplicados asociados a películas con el mismo nombre pero correspondientes a diferentes años de lanzamiento. Tras revisar estos casos, se concluyó que en muchos correspondían a secuelas, remakes o versiones live-action de producciones originales. Para diferenciarlas y evitar duplicidades en el análisis, se ajustó su identificación incorporando una numeración distintiva cuando fue necesario.
+
+Adicionalmente, se eliminaron variables consideradas poco relevantes para los objetivos del estudio, como la clasificación de la MPAA, con el fin de simplificar el modelo de datos y mejorar la claridad del análisis. También se revisaron los valores mediante estadísticas descriptivas para detectar posibles inconsistencias, sin encontrarse valores negativos ni rangos fuera de lo esperado. Finalmente, el conjunto de datos depurado se almacenó en una nueva versión denominada data_set_limpio, preservando el archivo original para futuras consultas o validaciones.
 
 # Preguntas de Análisis Resueltas por los Gráficos
 A partir de las visualizaciones generadas, podemos plantearnos y responder las siguientes tres preguntas clave:
