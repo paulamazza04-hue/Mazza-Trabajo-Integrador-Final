@@ -5,12 +5,18 @@ Herramientas básicas para el Análisis de Datos
 El presente proyecto tiene como objetivo analizar la evolución del desempeño comercial de las películas producidas y distribuidas por Disney entre 1937 y 2016. Para ello, se utilizará información relacionada con la fecha de estreno, el género, la clasificación por edades y la recaudación de cada película, tanto en valores nominales como ajustados por inflación. El análisis permitirá identificar tendencias a lo largo del tiempo, determinar cuáles han sido los géneros más exitosos, evaluar la influencia de la clasificación MPAA sobre los ingresos obtenidos y reconocer las películas con mejor desempeño en taquilla. Asimismo, se buscará comprender cómo ha evolucionado la capacidad de generación de ingresos de Disney y cuáles son los factores que podrían estar asociados al éxito comercial de sus producciones.
 
 # Datos:
-El análisis se realizó utilizando el dataset Disney Movies, obtenido de Kaggle. La información contiene datos históricos de películas de Disney, incluyendo año de lanzamiento, género, recaudación bruta e importe ajustado por inflación. A partir de estos datos se construyeron indicadores de desempeño (KPIs) para analizar la evolución de la recaudación por año y por género, así como la distribución y tendencias de las películas a lo largo del tiempo. Fuente: PrateekMaj21, Disney Movies Dataset, Kaggle. Disponible en: https://www.kaggle.com/datasets/prateekmaj21/disney-movies
+El análisis se realizó utilizando el dataset Disney Movies, obtenido de Kaggle. La información contiene datos históricos de películas de Disney, incluyendo año de lanzamiento, género, recaudación bruta e importe ajustado por inflación. A partir de estos datos se construyeron indicadores de desempeño (KPIs) para analizar la evolución de la recaudación por año y por género, así como la distribución y tendencias de las películas a lo largo del tiempo. Fuente: PrateekMaj21, Disney Movies Dataset, Kaggle. Disponible en: https://www.kaggle.com/datasets/prateekmaj21/disney-movies.
+
 
 # Exploración y limpieza de los datos
 Durante la etapa de preparación de datos se realizó un análisis de calidad sobre el dataset. Se identificaron y eliminaron valores nulos para garantizar la consistencia de la información. Asimismo, se detectaron registros duplicados asociados a películas con el mismo nombre pero correspondientes a diferentes años de lanzamiento. Tras revisar estos casos, se concluyó que en muchos correspondían a secuelas, remakes o versiones live-action de producciones originales. Para diferenciarlas y evitar duplicidades en el análisis, se ajustó su identificación incorporando una numeración distintiva cuando fue necesario.
 
 Adicionalmente, se eliminaron variables consideradas poco relevantes para los objetivos del estudio, como la clasificación de la MPAA, con el fin de simplificar el modelo de datos y mejorar la claridad del análisis. También se revisaron los valores mediante estadísticas descriptivas para detectar posibles inconsistencias, sin encontrarse valores negativos ni rangos fuera de lo esperado. Finalmente, el conjunto de datos depurado se almacenó en una nueva versión denominada data_set_limpio, preservando el archivo original para futuras consultas o validaciones.
+
+<img width="562" height="232" alt="image" src="https://github.com/user-attachments/assets/7358c54d-ca4c-4f88-a810-fb26c3deb0cd" />
+
+<img width="443" height="249" alt="image" src="https://github.com/user-attachments/assets/218e538e-534d-49c1-9b36-65c746b7c381" />
+
 
 # Preguntas de Análisis Resueltas por los Gráficos
 A partir de las visualizaciones generadas, podemos plantearnos y responder las siguientes tres preguntas clave:
